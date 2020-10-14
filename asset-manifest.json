@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ivi-react-ts/static/css/main.f28f46a7.chunk.css",
+    "main.js": "/ivi-react-ts/static/js/main.9426ad16.chunk.js",
+    "main.js.map": "/ivi-react-ts/static/js/main.9426ad16.chunk.js.map",
+    "runtime-main.js": "/ivi-react-ts/static/js/runtime-main.2c5ab427.js",
+    "runtime-main.js.map": "/ivi-react-ts/static/js/runtime-main.2c5ab427.js.map",
+    "static/js/2.414adff3.chunk.js": "/ivi-react-ts/static/js/2.414adff3.chunk.js",
+    "static/js/2.414adff3.chunk.js.map": "/ivi-react-ts/static/js/2.414adff3.chunk.js.map",
+    "index.html": "/ivi-react-ts/index.html",
+    "precache-manifest.1e5bb2a75f6acb3376a24e4e232722c7.js": "/ivi-react-ts/precache-manifest.1e5bb2a75f6acb3376a24e4e232722c7.js",
+    "service-worker.js": "/ivi-react-ts/service-worker.js",
+    "static/css/main.f28f46a7.chunk.css.map": "/ivi-react-ts/static/css/main.f28f46a7.chunk.css.map",
+    "static/js/2.414adff3.chunk.js.LICENSE.txt": "/ivi-react-ts/static/js/2.414adff3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ivi-react-ts/static/media/ArchivoNarrow-Regular.dbcd1ecf.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c5ab427.js",
+    "static/js/2.414adff3.chunk.js",
+    "static/css/main.f28f46a7.chunk.css",
+    "static/js/main.9426ad16.chunk.js"
+  ]
+}
